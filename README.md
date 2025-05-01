@@ -1,6 +1,6 @@
 # Indoor Object Detection and Safety Zone Classification
 
-This project focuses on detecting indoor objects (e.g., tables, chairs, chandeliers) and classifying safe and unsafe areas based on predefined rules. It integrates object detection and safety zone classification to enable automated analysis of indoor environments. I believe that this project will help people who dont know where to cover when an earthquake hits.
+This project focuses on detecting indoor objects (e.g., tables, chairs, chandeliers) and classifying safe and unsafe areas based on predefined rules. It integrates object detection and safety zone classification to enable automated analysis of indoor environments. I believe that this project will help people who don't know where to cover when an earthquake hits.
 
 ---
 
